@@ -1,10 +1,10 @@
-Employee Management System (SQL)
+**Employee Management System (SQL)**
 
-Project Description
+**Project Description**
 
 The Employee Management System is a database project designed to efficiently manage employee data within an organization. This project uses SQL to perform various operations such as adding, updating, deleting, and retrieving employee records. It is an excellent demonstration of using SQL for data management and CRUD operations.
 
-Features
+**Features**
 
 Add new employee records
 
@@ -16,7 +16,7 @@ Retrieve employee information
 
 Generate reports based on specific criteria
 
-Technologies Used
+**Technologies Used**
 
 SQL: Database management and CRUD operations
 
@@ -24,7 +24,7 @@ MySQL: Database server for storing employee data
 
 SQL Workbench: GUI tool for interacting with the MySQL database
 
-Database Schema
+**Database Schema**
 
 The project uses a relational database model with the following key tables:
 
