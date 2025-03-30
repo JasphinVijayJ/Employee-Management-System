@@ -44,6 +44,6 @@ Basic knowledge of SQL
 
 1. Run SQL queries to perform CRUD operations.
 
-2.Modify the provided SQL scripts as per your requirements.
+2. Modify the provided SQL scripts as per your requirements.
 
 3. Analyze the data using various SQL queries and functions.
