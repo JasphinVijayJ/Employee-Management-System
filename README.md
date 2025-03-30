@@ -18,23 +18,23 @@ Generate reports based on specific criteria
 
 **Technologies Used**
 
-SQL: Database management and CRUD operations
+**SQL:** Database management and CRUD operations
 
-MySQL: Database server for storing employee data
+**MySQL:** Database server for storing employee data
 
-SQL Workbench: GUI tool for interacting with the MySQL database
+**SQL Workbench:** GUI tool for interacting with the MySQL database
 
 **Database Schema**
 
 The project uses a relational database model with the following key tables:
 
-Employee: Stores basic employee information such as ID, name, department, salary, and joining date.
+**Employee:** Stores basic employee information such as ID, name, department, salary, and joining date.
 
-Department: Holds details about the departments within the organization.
+**Department:** Holds details about the departments within the organization.
 
-Salary: Maintains records of employee salaries and related details.
+**Salary:** Maintains records of employee salaries and related details.
 
-Prerequisites
+**Prerequisites**
 
 MySQL Server and Workbench installed
 
