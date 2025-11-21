@@ -133,13 +133,7 @@ spring.jpa.show-sql=true
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Jasphin Vijay J**  
-📧 Email: jasphinvijay@gmail.com
+📧 Email: jasphinvijayj@gmail.com
